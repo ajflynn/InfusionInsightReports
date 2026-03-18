@@ -1,4 +1,4 @@
-﻿# Infusion Insight Reports
+# Infusion Insight Reports
 
 > Transforming smart IV pump data into clinically actionable insights
 > using large language models.
